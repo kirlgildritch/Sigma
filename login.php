@@ -12,7 +12,7 @@
 
 
     <p>ryhghghghghhgh</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex assumenda quia, quaerat, deserunt aliquid officia explicabo delectus dolore laborum saepe rem! Quia minima error doloribus odio a veritatis id autem.
-    </p>
+  
+
 </body>
 </html>
