@@ -7,5 +7,7 @@
 </head>
 <body>
     <h2>Login</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem obcaecati aliquid magni, esse iusto quae, corrupti veritatis dolorum saepe quasi culpa omnis tenetur id, eveniet facilis porro temporibus quos quibusdam.</p>
 </body>
 </html>
