@@ -106,7 +106,7 @@
         </div>
 
         <div class="hero-image">
-          <img src="assets/hero-banner.png" alt="Hero Banner">
+          <img src="assets/image/heroBanner.png" alt="Hero Banner">
         </div>
       </div>
     </div>
