@@ -12,7 +12,7 @@
 
 <body>
 
-<!-- TOP BAR -->
+
 <div class="top-bar">
     <div>FREE SHIPPING THIS WEEK! ORDER OVER ₱500</div>
     <div>PHP ₱ | ENGLISH</div>
