@@ -226,12 +226,13 @@
     }
 
     .hero-box{
-      background:linear-gradient(90deg,#ffeef3 0%, #ffd9e6 100%);
+      background: linear-gradient(90deg, #fde8ef 0%, #ffd9e6 100%);
       border-radius:12px;
       overflow:hidden;
       display:grid;
       grid-template-columns:1fr 1fr;
       min-height:290px;
+      position: relative;
     }
 
     .hero-content{
@@ -298,12 +299,14 @@
       position:relative;
       overflow:hidden;
       height:100%;
+     
     }
 
     .hero-image img{
       width:100%;
       height:100%;
       object-fit:cover;
+      
     }
 
     .section{
@@ -672,5 +675,30 @@
 
       .hero-content h1{
         font-size:36px;
+      }
+      .hero-box{
+        grid-template-columns:1fr;
+        position: relative;
+      }
+
+      .hero-image{
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        z-index:1;
+      }
+
+      .hero-image img{
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        opacity:0.25; 
+      }
+
+      .hero-content{
+        position:relative;
+        z-index:2;
       }
     }

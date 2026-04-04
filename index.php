@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LocalLift PH</title>
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-  <link rel="stylesheet" href="assets/css/indexStyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/indexStyle.css">
 </head>
 <body>
     <div class="topbar">
@@ -59,7 +59,7 @@
         <a href="register.php" class="icon-box">
           <i class="fa-regular fa-user-plus"></i>
           Register
-          <span class="badge">0</span>
+         
         </a>
 
         <a href="#" class="icon-box">
@@ -80,7 +80,7 @@
   <nav class="navbar">
     <div class="container">
       <a href="index.php" class="active">HOME</a>
-      <a href="shops.php">SHOPS</a>
+      <a href="shop.php">SHOPS</a>
       <a href="products.php">PRODUCTS</a>
       <a href="about.php">ABOUT</a>
       <a href="seller_register.php" class="seller-link"><i class="fa-solid fa-store"></i> BECOME A SELLER</a>
@@ -106,7 +106,7 @@
         </div>
 
         <div class="hero-image">
-          <img src="assets/hero-banner.png" alt="Hero Banner">
+          <img src="assets/image/heroBanner.png" alt="Hero Banner">
         </div>
       </div>
     </div>
