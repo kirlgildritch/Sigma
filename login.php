@@ -11,7 +11,7 @@
 <body>
 <div class="top-bar">
     <div>FREE SHIPPING THIS WEEK! ORDER OVER ₱500</div>
-    <div>ENGLISH</div>
+    <div>ENGLISH hahahah</div>
 </div>
 
 <!-- HEADER -->
