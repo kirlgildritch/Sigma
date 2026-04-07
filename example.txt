@@ -1,1 +1,104 @@
-Polo
+Polo Jija Sf dsfo sdfdsg
+dfg
+<!-- FontAwesome 6.2.0 CSS -->
+<link
+    rel="stylesheet"
+    href="<div
+        class="<div class="card">
+            <img class="card-img-top" src="dfgdfg
+            dfgdfggd
+            <div class="container">
+                <form>
+                    <div class="mb-3 row">
+                        <label
+                            for="inputName"
+                            class="col-4 col-form-label"
+                            >dfgdfggdfg
+                            dfgdf
+                            <div class="<div
+                                class="<div class="card">
+                                    <img class="card-img-top" src="dfgdfg
+                                    fieldset
+                                    " alt="Title" />
+                                    <div class="card-body">
+                                        <h4 class="card-title">Title</h4>
+                                        <p class="card-text">Text</p>
+                                    </div>
+                                </div>
+                                      "
+                            >
+                                
+                            </div>
+                            ">
+                                <div class="row">
+                                    <div
+                                        class="col-4"
+                                    >
+                                        First Column
+                                    </div>
+                                    <div
+                                        class="col-4"
+                                    >
+                                        Second Column
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            </label
+                        >
+                        <div
+                            class="col-8"
+                        >
+                            <input
+                                type="text"
+                                class="form-control"
+                                name="inputName"
+                                id="inputName"
+                                placeholder="Name"
+                            />
+                        </div>
+                    </div>
+                    <fieldset class="mb-3 row">
+                        <legend
+                            class="col-form-legend col-4"
+                        >
+                            Group name
+                        </legend>
+                        <div
+                            class="col-8"
+                        >
+                            you can use radio and checkboxes here
+                        </div>
+                    </fieldset>
+                    <div class="mb-3 row">
+                        <div class="offset-sm-4 col-sm-8">
+                            <button type="submit" class="btn btn-primary">
+                                Action
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            " alt="Title" />
+            <div class="card-body">
+                <h4 class="card-title">Title</h4>
+                <p class="card-text">Text</p>
+            </div>
+        </div>
+              "
+    >
+        
+    </div>
+    "
+    integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+
+<!-- (Optional) Use CSS or JS implementation -->
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js"
+    integrity="sha512-naukR7I+Nk6gp7p5TMA4ycgfxaZBJ7MO5iC3Fp6ySQyKFHOGfpkSZkYVWV5R7u7cfAicxanwYQ5D1e17EfJcMA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+></script>
