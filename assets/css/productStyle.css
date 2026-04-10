@@ -1,0 +1,116 @@
+/* FILTER BOX */
+.sidebar-box {
+  background: #f6eef3;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+/* TITLE */
+.sidebar-box h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+/* PRICE TEXT */
+.price-values {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+/* SLIDER BAR */
+.price-slider {
+  position: relative;
+  height: 12px; /* IMPORTANT */
+  background: #e5dbe1;
+  border-radius: 10px;
+  margin: 15px 0;
+}
+
+/* PINK FILL */
+.price-slider::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 65%;
+  background: linear-gradient(to right, #ff7aa2, #ff4f87);
+  border-radius: 10px;
+  left: 0;
+  top: 0;
+}
+
+/* CIRCLE HANDLE */
+.price-slider::after {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  background: #ff4f87;
+  border-radius: 50%;
+  top: 50%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+
+/* BUTTON */
+.filter-btn {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to right, #ff7aa2, #ff4f87);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+/* PRICE (PINK) */
+.shop-products {
+  color: #ff4f87;
+  font-weight: 700;
+  font-size: 16px;
+  margin: 8px 0;
+}
+
+/* BUTTON CONTAINER (optional spacing) */
+.shop-card .btn-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+/* VIEW BUTTON (GRAY) */
+.view-btn {
+  padding: 8px 14px;
+  background: #eee;
+  color: #555;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.btn-group {
+  display: flex;
+  gap: 10px;
+}
+
+.view-btn,
+.cart-btn {
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.view-btn {
+  background: #eee;
+  color: #555;
+}
+
+.cart-btn {
+  background: linear-gradient(to right, #ff7aa2, #ff4f87);
+  color: white;
+}
